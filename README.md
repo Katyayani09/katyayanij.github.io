@@ -1,2 +1,1 @@
-# katyayanij.github.io
-Katyayani's Data Science Portfolio
+katyayanij.github.io
